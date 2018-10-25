@@ -43,3 +43,6 @@ r(N-1)
 
 ```
 where N is the size of instance, c(i,j) is the cost matrix and r(N) is the optimal route present in the opt.tour files (path: instance/opt-tour/). For example, see `bays29-testSolution` file.
+
+## Copyrights
+Some files were obtained from [this repository](https://github.com/Annihil/Little-TSP-solver).
