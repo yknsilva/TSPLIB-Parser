@@ -1,0 +1,3 @@
+/home/yurikelvin/Área de Trabalho/TSPLIB-Parser/CMakeFiles/edit_cache.dir
+/home/yurikelvin/Área de Trabalho/TSPLIB-Parser/CMakeFiles/rebuild_cache.dir
+/home/yurikelvin/Área de Trabalho/TSPLIB-Parser/CMakeFiles/parser.dir

@@ -1,0 +1,98 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yurikelvin/Área de Trabalho/TSPLIB-Parser/./commons/./IndexOutOfBoundsException.h
+iostream
+-
+sstream
+-
+exception
+-
+
+/home/yurikelvin/Área de Trabalho/TSPLIB-Parser/./commons/./Matrix.h
+IndexOutOfBoundsException.h
+/home/yurikelvin/Área de Trabalho/TSPLIB-Parser/./commons/./IndexOutOfBoundsException.h
+NegativeDimensionException.h
+/home/yurikelvin/Área de Trabalho/TSPLIB-Parser/./commons/./NegativeDimensionException.h
+iostream
+-
+vector
+-
+
+/home/yurikelvin/Área de Trabalho/TSPLIB-Parser/./commons/./NegativeDimensionException.h
+iostream
+-
+sstream
+-
+exception
+-
+
+/home/yurikelvin/Área de Trabalho/TSPLIB-Parser/./commons/TSPLibParser.h
+string
+-
+iostream
+-
+fstream
+-
+./Matrix.h
+/home/yurikelvin/Área de Trabalho/TSPLIB-Parser/./commons/./Matrix.h
+
+/home/yurikelvin/Área de Trabalho/TSPLIB-Parser/commons/./IndexOutOfBoundsException.h
+iostream
+-
+sstream
+-
+exception
+-
+
+/home/yurikelvin/Área de Trabalho/TSPLIB-Parser/commons/./Matrix.h
+IndexOutOfBoundsException.h
+/home/yurikelvin/Área de Trabalho/TSPLIB-Parser/commons/./IndexOutOfBoundsException.h
+NegativeDimensionException.h
+/home/yurikelvin/Área de Trabalho/TSPLIB-Parser/commons/./NegativeDimensionException.h
+iostream
+-
+vector
+-
+
+/home/yurikelvin/Área de Trabalho/TSPLIB-Parser/commons/./NegativeDimensionException.h
+iostream
+-
+sstream
+-
+exception
+-
+
+/home/yurikelvin/Área de Trabalho/TSPLIB-Parser/commons/TSPLibParser.cpp
+TSPLibParser.h
+/home/yurikelvin/Área de Trabalho/TSPLIB-Parser/commons/TSPLibParser.h
+ctime
+-
+algorithm
+-
+
+/home/yurikelvin/Área de Trabalho/TSPLIB-Parser/commons/TSPLibParser.h
+string
+-
+iostream
+-
+fstream
+-
+./Matrix.h
+/home/yurikelvin/Área de Trabalho/TSPLIB-Parser/commons/./Matrix.h
+
+/home/yurikelvin/Área de Trabalho/TSPLIB-Parser/main.cpp
+./commons/TSPLibParser.h
+/home/yurikelvin/Área de Trabalho/TSPLIB-Parser/./commons/TSPLibParser.h
+string
+-
+unistd.h
+-
+bits/stdc++.h
+-
+
